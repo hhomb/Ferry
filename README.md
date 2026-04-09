@@ -16,11 +16,11 @@ The work addresses the **energy-efficient operation of inland ferries** by combi
 
 ---
 
-🔒 **Note:** The code and ferry model will be released after acceptance of the paper.  
-The repository is in progress for the paper's final submission.
+## Code
+An example MATLAB implementation of the shrinking-horizon MPC scheme is provided in the file Example_Implementation.m 
 
 ---
 
 ## Video Demonstration  
-🎥 A video of the real-world ferry *MS Insel Mainau* operating on Lake Constance is provided here:  
+A video of the real-world ferry *MS Insel Mainau* operating on Lake Constance is provided here:  
 https://youtu.be/i1MjCdbEQyE
