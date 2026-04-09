@@ -17,7 +17,7 @@ The work addresses the **energy-efficient operation of inland ferries** by combi
 ---
 
 ## Code
-An example MATLAB implementation of the shrinking-horizon MPC scheme is provided in the file Example_Implementation.m 
+An example MATLAB implementation of the shrinking-horizon MPC scheme is provided in this repo, including the dynamic model of the ferry and environmental disturbances.
 
 ---
 
